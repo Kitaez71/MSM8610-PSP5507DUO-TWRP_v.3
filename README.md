@@ -1,0 +1,2 @@
+# MSM8610-PSP5507DUO-TWRP_v.3
+# !!!!! Before installing in the phone, you need to re-partition the eMMC to increase the size of the Recovery partition (mmcblk0p15) by 10-20 MB by decreasing the Userdata (mmcblk0p21) section by the same size !!!!!!
